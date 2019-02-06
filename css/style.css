@@ -63,3 +63,38 @@
 .footer{
 	margin-top: 30px;
 }
+.date{
+	margin-top: 35px;
+	font-size: 40px;
+	color: white;
+	background-color: #3D58A6;
+	display: inline-block;
+}
+.tve{
+	margin-top: 5px;
+}
+.satauri{
+	margin-top: 30px;
+	font-size: 20px;
+	color: #000000;
+	font-family: 'BPG Nino Mtavruli Bold';
+}
+.d-block{
+	display: inline-block;
+}
+.photo{
+	margin-top: 10px;
+}
+.text2{
+	width: 930px;
+	vertical-align: top;
+	font-size: 18px;
+	font-family: 'BPG Ingiri Arial';
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+
+.text3{
+	margin-top: 10px;
+}
